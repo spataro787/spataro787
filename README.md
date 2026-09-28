@@ -7,7 +7,7 @@ Soy desarrollador Full Stack graduado en Henry. Construyo aplicaciones web, APIs
 
 📍 Córdoba, Argentina · 💼 Buscando mi primera oportunidad profesional
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/spataro787/mi-portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-spataro-dev/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spataro787@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://agustin-spataro.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-spataro-dev/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spataro787@gmail.com)
 
 ---
 
