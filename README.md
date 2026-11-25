@@ -44,20 +44,19 @@ Me gusta transformar ideas en soluciones funcionales, diseñar APIs REST, trabaj
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,bootstrap" />
 </p>
+### 🎮 Tetris Arcade Edition — Proyecto personal
 
-### 🧪 Testing y calidad
+Proyecto personal que desarrollo y mejoro de forma continua como espacio de práctica, experimentación y aprendizaje.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest,jest,githubactions" />
-</p>
+Mi objetivo es mantenerme activo creando software, incorporar nuevas funcionalidades, mejorar la experiencia de usuario y aplicar buenas prácticas de desarrollo.
 
-### 🛠️ Herramientas y despliegue
+- Desarrollo y mejora continua de funcionalidades.
+- Experimentación con lógica de programación e interacción.
+- Mejoras de interfaz y experiencia de usuario.
+- Práctica constante de resolución de problemas y mantenimiento de código.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,firebase,aws,docker" />
-</p>
-
----
+🌐 **Demo:** https://tetris-arcade-edition-rose.vercel.app/  
+💻 **Repositorio:** https://github.com/spataro787/-Tetris-Arcade-Edition
 
 ## 🧑‍💻 Experiencia profesional
 
