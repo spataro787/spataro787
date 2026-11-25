@@ -44,19 +44,6 @@ Me gusta transformar ideas en soluciones funcionales, diseñar APIs REST, trabaj
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,bootstrap" />
 </p>
-### 🎮 Tetris Arcade Edition — Proyecto personal
-
-Proyecto personal que desarrollo y mejoro de forma continua como espacio de práctica, experimentación y aprendizaje.
-
-Mi objetivo es mantenerme activo creando software, incorporar nuevas funcionalidades, mejorar la experiencia de usuario y aplicar buenas prácticas de desarrollo.
-
-- Desarrollo y mejora continua de funcionalidades.
-- Experimentación con lógica de programación e interacción.
-- Mejoras de interfaz y experiencia de usuario.
-- Práctica constante de resolución de problemas y mantenimiento de código.
-
-🌐 **Demo:** https://tetris-arcade-edition-rose.vercel.app/  
-💻 **Repositorio:** https://github.com/spataro787/-Tetris-Arcade-Edition
 
 ## 🧑‍💻 Experiencia profesional
 
@@ -92,7 +79,7 @@ Desarrollé un sitio web profesional para una contadora pública, orientado a pr
 
 ## 🚀 Proyectos académicos — Backend
 
-### 🔹 GitHub MCP Server — Dev-awesome
+### 🔹 GitHub MCP Server — 
 
 Servidor desarrollado con Node.js y TypeScript para conectar herramientas de inteligencia artificial con GitHub mediante el protocolo MCP.
 
@@ -117,7 +104,7 @@ Servidor desarrollado con Node.js y TypeScript para conectar herramientas de int
 
 ---
 
-### 🔹 API REST — Gestión de Carnicería
+### 🔹 API REST — 
 
 Proyecto académico Backend enfocado en desarrollar una API REST para administrar información y operaciones de una carnicería.
 
@@ -197,14 +184,22 @@ Proyecto web orientado a la exploración y combinación de colores.
 🌐 **Demo:** https://spataro787.github.io/colorfly-studio/
 
 ---
+### 🎮 Tetris Arcade Edition — Proyecto personal
 
-### 🎮 Tetris Arcade Edition
+Proyecto personal de desarrollo continuo que utilizo para mantenerme activo programando, experimentar con nuevas ideas y seguir fortaleciendo mis habilidades técnicas.
 
-Versión web del clásico juego Tetris.
+Lo considero un espacio de práctica y evolución constante, donde puedo incorporar funcionalidades, optimizar el código y mejorar la experiencia de usuario.
 
-💻 **Repositorio:** https://github.com/spataro787/-Tetris-Arcade-Edition  
-🌐 **Demo:** https://tetris-arcade-edition-rose.vercel.app/
+- 🚀 Desarrollo e incorporación de nuevas funcionalidades.
+- 🧠 Práctica de lógica de programación y resolución de problemas.
+- 🎨 Mejoras de interfaz y experiencia de usuario.
+- ⚙️ Mantenimiento, optimización y buenas prácticas de código.
+- 💡 Experimentación con nuevas ideas y tecnologías.
 
+**Objetivo:** seguir aprendiendo, creando y mejorando mediante el desarrollo de proyectos propios.
+
+🌐 **Demo:** https://tetris-arcade-edition-rose.vercel.app/  
+💻 **Repositorio:** https://github.com/spataro787/-Tetris-Arcade-Edition
 
 
 ## 🎓 Formación
